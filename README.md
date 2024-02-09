@@ -1,2 +1,2 @@
 # sqlalchemy-challenge
-Repo for data bootcamp module 10 assignment
+Used SQLAlchemy, JSON, and Flask API to analyze and visualize a large climate data set
